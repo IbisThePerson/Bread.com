@@ -1,4 +1,4 @@
-## Pães Brasileiros: Sua Busca por Pães, Agora Mais Saborosa!
+## Pães Brasileiros: Sua Busca por Pães, Agora Mais Saborosa! - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
